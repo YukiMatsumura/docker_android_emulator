@@ -5,8 +5,4 @@ This container is based [android container](https://hub.docker.com/r/yuki312/and
 
 ## Package
 
- - Ubuntu 16.04
- - OpenJDK 8
- - Apache Ant 1.9.6
- - Gradle 2.11
- - Android SDK 24.4.1
+ - emulator(armeabi-v7a) with google apis23

@@ -1,2 +1,2 @@
 DOCKER_REPO=yuki312/android_emulator
-DOCKER_TAG=ver0.0.1
+DOCKER_TAG=ver0.9.0
